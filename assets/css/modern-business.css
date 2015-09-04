@@ -8,20 +8,11 @@
 
 
 
-.stream{
-
-position:absolute;
-margin-top: 168px;
-top:0;
-right:0;
-bottom:0;
-left:0;
-}
 .stream-offset{
-    margin-left: -50px;
+    margin-left: -155px;
 }
 .chat-offset{
-    margin-left:5px;
+    margin-left:335px;
 }
 .btn:active,
 .btn.active {
