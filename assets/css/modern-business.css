@@ -5,6 +5,16 @@
  */
 
 /* Global Styles */
+
+
+
+
+.stream-offset{
+    margin-left: -50px;
+}
+.chat-offset{
+    margin-left:5px;
+}
 .btn:active,
 .btn.active {
     -webkit-box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5);
